@@ -14,7 +14,6 @@ To run the code and reproduce the analysis, the following dependencies are requi
 - NumPy
 - Pandas
 - scikit-learn
-- TensorFlow
 - Keras
 - Matplotlib
 
