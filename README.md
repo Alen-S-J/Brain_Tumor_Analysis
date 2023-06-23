@@ -23,15 +23,6 @@ You can install these dependencies using pip:
 pip install numpy pandas scikit-learn tensorflow keras matplotlib
 ```
 
-## Code Structure
-
-The code in this repository is organized as follows:
-
-- `data/`: This directory contains the dataset used for training and evaluation.
-- `preprocessing.ipynb`: Jupyter Notebook that demonstrates the preprocessing steps performed on the dataset, such as data cleaning, image resizing, and feature extraction.
-- `classification.ipynb`: Jupyter Notebook that showcases the implementation of various machine learning algorithms for brain tumor classification, including decision trees, random forests, support vector machines, and deep neural networks.
-- `evaluation.ipynb`: Jupyter Notebook that evaluates the performance of the trained models using metrics such as accuracy, precision, recall, and F1-score.
-
 ## Usage
 
 To use this repository, follow these steps:
@@ -44,7 +35,7 @@ git clone https://github.com/GithubSemp-AI/Brain_Tumor_Analysis.git
 
 2. Install the required dependencies as mentioned in the "Requirements" section.
 
-3. Run the Jupyter Notebooks in the provided order: `preprocessing.ipynb`, `classification.ipynb`, and `evaluation.ipynb`. Make sure to update the file paths if necessary.
+3. Run the Jupyter Notebooks in the 'code.ipynb'. Make sure to update the file paths if necessary.
 
 4. Analyze the results, including the performance of different machine learning algorithms in classifying brain tumors.
 
