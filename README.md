@@ -41,7 +41,7 @@ git clone https://github.com/GithubSemp-AI/Brain_Tumor_Analysis.git
 
 ## Results
 
-The results of the brain tumor analysis can be found in the `evaluation.ipynb` notebook. The evaluation includes metrics such as accuracy, precision, recall, and F1-score, which provide insights into the model's performance.
+The results of the brain tumor analysis can be found in the `code.ipynb` notebook. The evaluation includes metrics such as accuracy, precision, recall, and F1-score, which provide insights into the model's performance.
 
 ## Conclusion
 
